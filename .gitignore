@@ -1,0 +1,6 @@
+.env
+*.jar
+*.log
+*.tmp
+*.bak
+.DS_Store
